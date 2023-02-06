@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\bin\Debug\net6.0\bookStore.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\bin\Debug\net6.0\bookStore.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\bin\Debug\net6.0\bookStore.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\bin\Debug\net6.0\bookStore.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\bin\Debug\net6.0\bookStore.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\obj\Debug\net6.0\bookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\obj\Debug\net6.0\bookStore.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\obj\Debug\net6.0\bookStore.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\obj\Debug\net6.0\bookStore.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\obj\Debug\net6.0\refint\bookStore.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\obj\Debug\net6.0\bookStore.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\obj\Debug\net6.0\bookStore.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment2\bookStore\bookStore\obj\Debug\net6.0\ref\bookStore.dll
